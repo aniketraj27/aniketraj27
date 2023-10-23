@@ -1,24 +1,26 @@
-<h1 align="center">Hi 👋, I'm Aniketraj Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there, I'm, Aniketraj Singh</h1>
+<h3 align="center">A dedicated Front-end developer passionate about creating innovative websites</h3>
+
+<img align = "right" alt="web-developer" width = "400" src = "https://miro.medium.com/v2/resize:fit:1400/1*qBNlFWQ9G_RPVm7tbZaXOw.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketraj27&label=Profile%20views&color=0e75b6&style=flat" alt="aniketraj27" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aniketraj27" target="blank"><img src="https://img.shields.io/twitter/follow/aniketraj27?logo=twitter&style=for-the-badge" alt="aniketraj27" /></a> </p>
+- 🔭 I’m currently working on: **INDMoney - A FinTech App Clone**
 
-- 🔭 I’m currently working on **INDMoney**
+- 🌱 I’m currently learning: **React, Node.Js**
 
-- 🌱 I’m currently learning **React, Node.Js**
+- 💬 Ask me about: **Front-end(HTML, CSS, JavaScript)**
 
-- 💬 Ask me about **Front-end(HTML, CSS, JavaScript)**
+- 📫 How to reach me: **aniketraj2720@gmail.com**
 
-- 📫 How to reach me **aniketraj2720@gmail.com**
+- ⚡ Fun fact: **I'm also a photographer who loves to travel & capture moments**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aniketraj27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniketraj27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aniketraj27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketraj singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aniketraj singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketraj singh" height="30" width="40" /></a>
 <a href="https://instagram.com/aniketraj_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniketraj_27" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aniketraj_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aniketraj_27" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aniketraj_27/about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aniketraj_27" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aniketraj27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniketraj27" height="30" width="40" /></a>
 </p>
 
