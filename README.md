@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketraj27&label=Profile%20views&color=0e75b6&style=flat" alt="aniketraj27" /> </p>
 
-- 🔭 I’m currently working on: **INDMoney - A FinTech App Clone**
+- 🔭 I’m currently working on: **Amazon - App Clone**
 
 - 🌱 I’m currently learning: **React, Node.Js**
 
